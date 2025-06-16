@@ -51,8 +51,8 @@
 
 ## 🎥 시연 영상
 
-- 📽️ [Telegram 봇 시연 영상](https://youtube.com/shorts/Ox8f2rt5Z0U)
-- 📽️ [얼굴 인식 동작 영상](https://youtube.com/shorts/UaI0TedMhJQ)
+- 📽️ [Telegram 봇 시연 영상](https://youtube.com/shorts/Ox8f2rt5Z0U?feature=share)
+- 📽️ [얼굴 인식 동작 영상](https://youtube.com/shorts/UaI0TedMhJQ?feature=share)
 
 ---
 
