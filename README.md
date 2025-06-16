@@ -76,7 +76,7 @@
 
 ## 📎 관련 링크
 
-- 발표 자료 PDF: [docs/멀티미디어신호처리_TEAM_ARMY_TIGER_최종발표.pdf](https://github.com/Kim-geun-woo/Rental-Car-Theft-Prevention-System-Project/blob/main/docs/%EB%A9%80%ED%8B%B0%EB%AF%B8%EB%94%94%EC%96%B4%EC%8B%A0%ED%98%B8%EC%B2%98%EB%A6%AC_TEAM_ARMY_TIGER_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf)
+- 발표 자료 PDF: [공유렌트카 도용 방지 시스템_발표자료](https://github.com/Kim-geun-woo/Rental-Car-Theft-Prevention-System-Project/blob/main/docs/%EB%A9%80%ED%8B%B0%EB%AF%B8%EB%94%94%EC%96%B4%EC%8B%A0%ED%98%B8%EC%B2%98%EB%A6%AC_TEAM_ARMY_TIGER_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf)
 - Notion: [프로젝트 일정 관리 페이지](https://picturesque-lunch-045.notion.site/306b2b04d5ae40ae8d0092c35cc3ad56?v=8ba4b28f5f594e75a6016985db4b8941&pvs=74)
 
 ---
